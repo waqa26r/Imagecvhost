@@ -2,4 +2,3 @@ streamlit
 cv2
 numpy
 PIL
-opencv-python
